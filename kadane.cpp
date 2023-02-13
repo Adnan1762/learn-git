@@ -23,6 +23,6 @@ int main()
     for(int i=0;i<8;i++)
     cin>>a[i];
 
-    cout<<maxSumarray(a,8);
+    cout<<"ans is "<<maxSumarray(a,8);
     return 0;
 }
