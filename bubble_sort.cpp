@@ -1,3 +1,10 @@
+/*  this is bubble sort code
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements 
+if they are in the wrong order
+
+name-Adnan Faisal
+Issue Date-13/2/2023  */
+
 #include<iostream>
 using namespace std;
 
